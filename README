@@ -71,7 +71,7 @@ Linux Requirements
 
 Debian/Ubuntu
 ==================
-    sudo apt-get install curl
+    sudo apt-get install curl git mercurial make binutils bison gcc build-essential
     sudo apt-get install git
     sudo apt-get install mercurial
     sudo apt-get install make

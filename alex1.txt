@@ -1,0 +1,5 @@
+Mon 07 Aug 2017 10:53:32 AEST 
+I cloned the gvm repo and started executing the Linux parts but it would not build straight away easily so I forked it in the hope of fixing some bits over time...  
+It seems that this has not had much attention in a while - so far when I dug in a little it seems that it's last go version is 1.4 . I was using 1.7.X last time I looked which was only a few weeks ago - on a revisit to some old programs.
+It appears there are some C statements that may not be valid in the later versions of gcc.
+Or have I missed something ...  ?
